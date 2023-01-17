@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "BasicNumberSystems"
 version = "0.1.0"
-description = ""
+description = "Work with basic number systems"
 authors = ["Ru5D1mG4me"]
 
 [tool.poetry.dependencies]
